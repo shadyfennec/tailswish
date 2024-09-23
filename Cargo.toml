@@ -1,0 +1,9 @@
+[package]
+edition = "2021"
+name = "tailswish"
+version = "0.1.0"
+
+[dependencies]
+itertools = "0.13.0"
+nom = "7.1.3"
+thiserror = "1.0.63"
